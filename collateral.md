@@ -22,4 +22,5 @@ After you send the coins for the first Masternode.
 4. Click on the coins for your Masternode and use toggle lock state to lock the coins
 5. Follow the instructions above and this instructions for the rest of your Masternodes
 
-[< Home](README.md)
+
+
