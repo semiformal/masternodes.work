@@ -1,4 +1,4 @@
-# Preparing collateral
+### Preparing collateral
 
 1. Open your wallet and wait for it to synchronize
 2. Open the debug console (**Tools > Debug**)
@@ -7,3 +7,6 @@
   Do not subtract fees from this amount. The amount sent must be exactly the specified amount. 
 5. You will see the transaction in your wallet is negative a small amount. This is normal.
 6. Once you have 15 confirmations on this transaction you are ready to start your Masternode!
+
+
+[< Home](README.md)
