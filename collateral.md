@@ -8,5 +8,9 @@
 5. You will see the transaction in your wallet is negative a small amount. This is normal.
 6. Once you have 15 confirmations on this transaction you are ready to start your Masternode!
 
+### Preparing collateral for multiple Masternodes
+If you are preparing collateral for more than 1 master node you need to lock the coins used prior to sending collateral for the next nodes. 
+1. Goto the **Send** section of the wallet
+
 
 [< Home](README.md)
