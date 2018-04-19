@@ -8,10 +8,12 @@
 4. Now send the exact amount needed for the masternode to the above address. 
   Do not subtract fees from this amount. The amount sent must be exactly the specified amount. 
 5. You will see the transaction in your wallet is negative a small amount. This is normal.
-6. Once you have 15 confirmations on this transaction you are ready to start your Masternode!
+6. After you prepare all of your collateral run the command: `masternode outputs` and send the output to us. We will prepare the entries for your Masternode.conf file and send them back to you.
 
-### Preparing collateral for multiple Masternodes
-If you are preparing collateral for more than 1 master node you need to lock the coins used prior to sending collateral for the next nodes. 
+Once you have 15 confirmations on this transaction you are ready to start your Masternode!
+
+### For multiple Masternodes
+If you are preparing collateral for more than 1 Masternode you need to lock the coins used prior to sending collateral for the next nodes. 
 
 After you send the coins for the first Masternode. 
 1. Goto the **Send** section of the wallet
