@@ -1,3 +1,5 @@
+[< Home](README.md)
+
 ### Preparing collateral
 
 1. Open your wallet and wait for it to synchronize
