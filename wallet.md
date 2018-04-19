@@ -1,3 +1,5 @@
+[< Home](README.md)
+
 ### Setup your wallet
 
 1. Open your wallet
