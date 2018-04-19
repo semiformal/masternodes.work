@@ -10,7 +10,6 @@
 4. Hit **OK**
 
 
-
-
+[Preparing collateral >](collateral.md)
 
 
